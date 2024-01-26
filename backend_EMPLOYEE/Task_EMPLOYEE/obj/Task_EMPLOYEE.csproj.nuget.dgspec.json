@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Athas AR\\source\\repos\\Task_EMPLOYEE\\Task_EMPLOYEE\\Task_EMPLOYEE.csproj": {}
+    "C:\\Users\\Athas AR\\Desktop\\Task_DotNET\\backend_EMPLOYEE\\Task_EMPLOYEE\\Task_EMPLOYEE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Athas AR\\source\\repos\\Task_EMPLOYEE\\Task_EMPLOYEE\\Task_EMPLOYEE.csproj": {
+    "C:\\Users\\Athas AR\\Desktop\\Task_DotNET\\backend_EMPLOYEE\\Task_EMPLOYEE\\Task_EMPLOYEE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Athas AR\\source\\repos\\Task_EMPLOYEE\\Task_EMPLOYEE\\Task_EMPLOYEE.csproj",
+        "projectUniqueName": "C:\\Users\\Athas AR\\Desktop\\Task_DotNET\\backend_EMPLOYEE\\Task_EMPLOYEE\\Task_EMPLOYEE.csproj",
         "projectName": "Task_EMPLOYEE",
-        "projectPath": "C:\\Users\\Athas AR\\source\\repos\\Task_EMPLOYEE\\Task_EMPLOYEE\\Task_EMPLOYEE.csproj",
+        "projectPath": "C:\\Users\\Athas AR\\Desktop\\Task_DotNET\\backend_EMPLOYEE\\Task_EMPLOYEE\\Task_EMPLOYEE.csproj",
         "packagesPath": "C:\\Users\\Athas AR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Athas AR\\source\\repos\\Task_EMPLOYEE\\Task_EMPLOYEE\\obj\\",
+        "outputPath": "C:\\Users\\Athas AR\\Desktop\\Task_DotNET\\backend_EMPLOYEE\\Task_EMPLOYEE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Athas AR\\AppData\\Roaming\\NuGet\\NuGet.Config",

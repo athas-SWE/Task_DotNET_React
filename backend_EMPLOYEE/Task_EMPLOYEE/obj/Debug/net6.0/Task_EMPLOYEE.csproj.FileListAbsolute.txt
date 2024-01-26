@@ -86,3 +86,13 @@ C:\Users\Athas AR\source\repos\Task_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\refi
 C:\Users\Athas AR\source\repos\Task_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.pdb
 C:\Users\Athas AR\source\repos\Task_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.genruntimeconfig.cache
 C:\Users\Athas AR\source\repos\Task_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\ref\Task_EMPLOYEE.dll
+C:\Users\Athas AR\Desktop\Task_DotNET\backend_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.csproj.AssemblyReference.cache
+C:\Users\Athas AR\Desktop\Task_DotNET\backend_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Athas AR\Desktop\Task_DotNET\backend_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.AssemblyInfoInputs.cache
+C:\Users\Athas AR\Desktop\Task_DotNET\backend_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.AssemblyInfo.cs
+C:\Users\Athas AR\Desktop\Task_DotNET\backend_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.csproj.CoreCompileInputs.cache
+C:\Users\Athas AR\Desktop\Task_DotNET\backend_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Athas AR\Desktop\Task_DotNET\backend_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Athas AR\Desktop\Task_DotNET\backend_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.dll
+C:\Users\Athas AR\Desktop\Task_DotNET\backend_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\refint\Task_EMPLOYEE.dll
+C:\Users\Athas AR\Desktop\Task_DotNET\backend_EMPLOYEE\Task_EMPLOYEE\obj\Debug\net6.0\Task_EMPLOYEE.pdb
