@@ -32,7 +32,66 @@ const EmployeeForm = () => {
 
   return (
     <form onSubmit={handleSubmit}>
-      {/* Form fields and input elements */}
+      {/* First Name */}
+      <label>
+        First Name:
+        <input
+          type="text"
+          value={firstName}
+          onChange={(e) => setFirstName(e.target.value)}
+        />
+      </label>
+
+      {/* Last Name */}
+      <label>
+        Last Name:
+        <input
+          type="text"
+          value={lastName}
+          onChange={(e) => setLastName(e.target.value)}
+        />
+      </label>
+
+      {/* Email */}
+      <label>
+        Email:
+        <input
+          type="email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+        />
+      </label>
+
+      {/* Date of Birth */}
+      <label>
+        Date of Birth:
+        <input
+          type="date"
+          value={dob}
+          onChange={(e) => setDob(e.target.value)}
+        />
+      </label>
+
+      {/* Salary */}
+      <label>
+        Salary:
+        <input
+          type="text"
+          value={salary}
+          onChange={(e) => setSalary(e.target.value)}
+        />
+      </label>
+
+      {/* Department */}
+      <label>
+        Department:
+        <input
+          type="text"
+          value={department}
+          onChange={(e) => setDepartment(e.target.value)}
+        />
+      </label>
+
       <button type="submit">Add Employee</button>
     </form>
   );
